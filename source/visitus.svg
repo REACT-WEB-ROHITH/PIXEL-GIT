@@ -1,0 +1,8 @@
+<svg width="197" height="41" viewBox="0 0 197 41" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <text font-family="Chivo-Bold, Chivo" font-size="13" font-weight="bold" letter-spacing="2.5" fill="#2736DD">
+                        <tspan x="60.648" y="26">VISIT US</tspan>
+                    </text>
+        <path stroke="#2736DD" d="M20 42H0L10 1h10M177 1H20M177 1h20l-10 41h-10"/>
+    </g>
+</svg>
