@@ -1151,6 +1151,9 @@ html::-webkit-scrollbar-track {
   {
     width: 100%;
   }
+  .viewTrails {
+    width: 270px;
+  }
 }
 @media screen and (max-width: 400px) {
   .img-box {
