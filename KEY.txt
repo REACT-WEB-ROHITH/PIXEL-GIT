@@ -1,0 +1,14 @@
+__________________________________POINT TO NOTICE_______________________________
+1.The navigation bar auto adjust as per mobile,desktop and ultra wide view.
+
+2.The banners and products are designed using grid-layout method so as to reduce the css as far as possible and once designed in grid layout will auto adjust and can be tweaked easily."You can see the mathematical final approach in css."
+
+3."Mountains on Instagram" and "Explore our trips" are converted into sliders from tablet view to mobile view.Even these are adjustable to ultra wide views when more data is injected.
+
+4.Made some changes on footers part that "Location,support,extra" ,the sub-tabs in them are hidden and "+" button is added to unhide them using javascript.Everything is done for better visuals.
+
+5.All buttons are done with help of css using transform and skew properties in css instead of pasting bitmap map images from assets.
+
+
+
+___________________________THANK YOU__________________________________
